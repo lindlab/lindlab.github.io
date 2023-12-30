@@ -4,10 +4,12 @@ layout: home
 group: home
 ---
 
+![landing photo](static/img/logo/cv.svg){:style="max-width: 100%; height: auto;"}
+
 # Welcome to the Lind Lab!
 {: .display-4}
 <br>
-We are part of the [School of Biological Sciences](https://biosciences.gatech.edu/) at the Georgia Institute of Technology.
+We are part of the [School of Biological Sciences](https://biosciences.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
 {: .welcomefont}
 
 <!-- ![Lind lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"} -->
