@@ -13,7 +13,7 @@ We are part of the [School of Biological Sciences](https://biosciences.gatech.ed
 {: .welcomefont}
 
 <!-- ![Lind lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"} -->
-<img align="left" style="fmax-width:40%" src="/static/img/logo/cf.png">
+<img align="left" style="fmax-width:30%" src="/static/img/logo/cf.png">
 
 The Lind lab studies microbes that live in the animal gut, focusing on single-celled protists and how they interact with the host. We use computational genomics approaches along with wet-lab microbiology to understand the evolution and ecology of intestinal protists.
 {: .welcomefont}
