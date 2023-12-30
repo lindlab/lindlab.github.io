@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-![landing photo](static/img/logo/cv.svg){:style="max-width: 100%; height: auto;"}
+![landing photo](static/img/logo/cf.svg){:style="max-width: 100%; height: auto;"}
 
 # Welcome to the Lind Lab!
 {: .display-4}
