@@ -1,19 +1,19 @@
 ---
-title: Fraser Lab
+title: Lind Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Lind Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are part of the [School of Biological Sciences](https://biosciences.gatech.edu/) at the Georgia Institute of Technology.
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+<!-- ![Lind lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"} -->
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+The Lind lab studies microbes that live in the animal gut, focusing on single-celled protists and how they interact with the host. We use computational genomics approaches along with wet-lab microbiology to understand the evolution and ecology of intestinal protists.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located in the Krone Enginereed Biosciences Building.
 {: .welcomefont}
