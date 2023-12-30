@@ -15,7 +15,7 @@ The long-term goals of our research are lorem ipsum
 <br>
 
 </div>
-
+<!-- 
 <div class="row">
 
 ### Project 1
@@ -28,7 +28,6 @@ Lorem ipsum
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 
-<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
 </div>
 </div>
@@ -62,3 +61,4 @@ Lorem Ipsum
 </div>
 </div>
 
+ -->
