@@ -1,4 +1,7 @@
-# fraser-lab.github.io
+# lindlab.github.io
+
+This code was forked from fraser-lab.github.io
+
 ====================
 
 Technologies this website uses:  
