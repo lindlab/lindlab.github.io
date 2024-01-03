@@ -6,6 +6,7 @@ group: contact
 
 # Contact the Lind Lab
 
+##The Lind lab is recruiting graduate students and postdocs! Please contact Abigail directly by email.
 
 <div class="row">
 
