@@ -6,8 +6,6 @@ group: members
 
 <h1>Lind Lab Members</h1>
 
-The Lind lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
-
 {% for member in site.members %}
 
 {% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
@@ -63,7 +61,7 @@ The Lind lab welcomes people of any race, ethnicity, religion, national origin, 
         </div>
 {% endfor %}
 <hr>
-<h4>Affiliates</h4>
+<!-- <h4>Affiliates</h4>
 {% for member in site.members %}
 
 {% unless member.enddate == empty %}
@@ -117,8 +115,8 @@ The Lind lab welcomes people of any race, ethnicity, religion, national origin, 
             </div>
         </div>
 {% endfor %}
-<hr>
-
+<hr> -->
+<!-- 
 <div>
 {% assign stretch = 60 %}
 {% assign yheight = 16 %}
@@ -224,3 +222,4 @@ The Lind lab welcomes people of any race, ethnicity, religion, national origin, 
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text>
 </svg>
 </div>
+ -->
