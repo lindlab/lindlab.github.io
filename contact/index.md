@@ -26,6 +26,6 @@ group: contact
   [School of Biological Sciences](https://biosciences.gatech.edu/)<br>
   950 Atlantic Dr NW Suite 1<br>
   Atlanta, GA 30332<br>
-  email: alind6 (at) gatech.edu
+  email: abigail (dot) lind (at) gatech.edu
 
 </div>
