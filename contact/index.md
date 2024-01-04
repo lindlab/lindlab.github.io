@@ -15,7 +15,7 @@ group: contact
   <h4>Lab Area </h4>
   [School of Biological Sciences](https://biosciences.gatech.edu/)<br>
   [Krone Engineered Biosystems Building](https://ebb.gatech.edu/)<br>
-  950 Atlantic Dr NW Suite 1 <br>
+  950 Atlantic Dr NW<br>
   Atlanta, GA 30332
 
 </div>
@@ -25,7 +25,7 @@ group: contact
   <h4>Abigail Lind, Ph.D.</h4>
   Assistant Professor<br>
   [School of Biological Sciences](https://biosciences.gatech.edu/)<br>
-  950 Atlantic Dr NW Suite 1<br>
+  950 Atlantic Dr NW<br>
   Atlanta, GA 30332<br>
   email: abigail (dot) lind (at) gatech.edu
 
