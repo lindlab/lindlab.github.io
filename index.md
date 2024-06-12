@@ -18,5 +18,5 @@ We are part of the [School of Biological Sciences](https://biosciences.gatech.ed
 The Lind lab studies microbes that live in the animal gut, focusing on single-celled protists and how they interact with the host. We use computational genomics approaches along with wet-lab microbiology to understand the evolution and ecology of intestinal protists.
 {: .welcomefont}
 
-We are located in the Krone Enginereed Biosciences Building.
+We are located in the Krone Enginereed Biosciences Building at 950 Atlantic Drive.
 {: .welcomefont}
