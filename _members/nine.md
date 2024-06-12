@@ -1,13 +1,9 @@
-Required fields:
-Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
-Optional fields:
-timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
 ---
 #REQUIRED
-name: Gabriela Nine #Include "Ph.D."" if applicable
+name: Gabriela Nine
 timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2024-06-10] #Enter your start date
-enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
+enddate: []#[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/Nine.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Technician #What is your job title in the Lind lab?
