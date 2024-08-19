@@ -1,5 +1,14 @@
 Required fields:
 Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
+consider:
+key:
+AA is PI
+BB is research staff
+CC is postdoc
+DA is grad student
+DB is grad student, joined
+DC is masters student
+EE is undergrad
 Optional fields:
 timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
 ---
