@@ -1,8 +1,8 @@
 ---
 name: Tahrima Jubery
-startdate: [2024-08-19]
+startdate: [2024-08-18]
 enddate: []
- image: /static/img/members/Jubery.jpg
+image: /static/img/members/Jubery.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Master's Student
 #current:
