@@ -6,7 +6,7 @@ image: /static/img/members/blasto.png
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Graduate Student - Rotation
 #current:
-email: lkeller31 (ata) gatech (dot) edu
+email: lkeller31 (at) gatech (dot) edu
 scholar:
 website:
 twitter:

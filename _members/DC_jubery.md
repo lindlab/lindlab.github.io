@@ -6,7 +6,7 @@ image: /static/img/members/Jubery.png
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Master's Student
 #current:
-email: tjubery6 (ata) gatech (dot) edu
+email: tjubery6 (at) gatech (dot) edu
 scholar: Uo_6P5kAAAAJ
 website:
 twitter:
