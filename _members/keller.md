@@ -4,7 +4,7 @@ startdate: [2024-08-18]
 enddate: []
 image: /static/img/members/blasto.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
-position: Graduate Student (Rotating)
+position: Graduate Student - Rotation
 #current:
 email: lkeller31 (ata) gatech (dot) edu
 scholar:
