@@ -2,7 +2,7 @@
 name: Lydia Keller
 startdate: [2024-08-18]
 enddate: []
-image: /static/img/members/blasto.png
+image: /static/img/members/Keller.png
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Graduate Student - Rotation
 #current:
