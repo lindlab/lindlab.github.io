@@ -12,5 +12,5 @@ website:
 twitter:
 github: 
 orcid: 0009-0002-8327-026X
-description:"Shobini is currently pursuing a Bachelor's degree in Neuroscience with a minor in Biology at Georgia Tech. She is interested in exploring microbial interactions and deepening her knowledge of microbiology."
+description: "Shobini is currently pursuing a Bachelor's degree in Neuroscience with a minor in Biology at Georgia Tech. She is interested in exploring microbial interactions and deepening her knowledge of microbiology."
 ---
