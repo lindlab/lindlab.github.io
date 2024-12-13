@@ -4,7 +4,7 @@ startdate: [2024-08-18]
 enddate: []
 image: /static/img/members/Keller.png
 # altimage: /static/img/members/Fraser_pb.jpg
-position: Graduate Student - Rotation
+position: Graduate Student
 #current:
 email: lkeller31 (at) gatech (dot) edu
 scholar:
