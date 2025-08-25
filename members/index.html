@@ -64,7 +64,7 @@ group: members
 
 <h1>Former Lab Members</h1>
 
-{% for member in site.previous_members %}
+{% for member in site.members %}
 
 
 {% unless member.enddate != empty %}
@@ -73,7 +73,7 @@ group: members
 
 {% if member.position contains "Affiliate" or member.position contains "Visiting" %}
 {% continue %}
-{% endif %}
+{% endif %}  
 
         <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
