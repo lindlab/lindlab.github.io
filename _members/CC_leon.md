@@ -1,7 +1,7 @@
 ---
 name: Fredrick Leon, Ph.D. #Include "Ph.D."" if applicable
 startdate: [2025-04-15] #Enter your start date
-enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
+enddate: []
 image: /static/img/members/Leon.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral fellow #What is your job title in the Fraser lab?
