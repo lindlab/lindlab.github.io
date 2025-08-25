@@ -1,7 +1,7 @@
 ---
 name: Natalie Miller
 startdate: [2024-08-18]
-enddate: []
+enddate: [2024-12-15]
 image: /static/img/members/Miller.jpeg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Graduate Student - Rotation

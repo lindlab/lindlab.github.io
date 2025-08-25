@@ -1,12 +1,12 @@
 ---
 name: Matthew Park
 startdate: [2024-08-18]
-enddate: []
+enddate: [2025-07-02]
 image: /static/img/members/blasto.png
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Undergraduate researcher
 #current:
-email: mrpark358 (at) gatech (dot) edu
+email:
 scholar:
 website:
 twitter:

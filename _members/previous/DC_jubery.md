@@ -1,12 +1,12 @@
 ---
 name: Tahrima Jubery
 startdate: [2024-08-18]
-enddate: []
+enddate: [2025-05-10]
 image: /static/img/members/Jubery.png
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Master's Student
 #current:
-email: tjubery6 (at) gatech (dot) edu
+email:
 scholar: Uo_6P5kAAAAJ
 website:
 twitter:
