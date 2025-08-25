@@ -2,7 +2,7 @@
 name: Caroline Beuscher
 startdate: [2025-08-20]
 enddate: []
-image: /static/img/members/Beuscher.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/Beuscher.tiff #365 x 365 pixels, 72 dpi
 position: Master's Student#What is your job title in the Fraser lab?
 email: #username (at) domain.com #Enter your preferred public e-mail address
 orcid: 0000-0002-8807-4455 #XXXX-XXXX-XXXX-XXXX #ORCID, create if you don't have one
