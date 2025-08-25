@@ -67,7 +67,7 @@ group: members
 {% for member in site.members %}
 
 
-{% unless member.enddate != empty or member.startdate.size == member.enddate.size %}
+{% unless member.enddate != empty %}
 {% continue %}
 {% endunless %}
 
@@ -84,6 +84,13 @@ group: members
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
                 {% endif %}
+                {% if member.startdate %}
+                  <em>{{member.startdate}}</em> <br>
+                {% endif %}
+                {% if member.enddate %}
+                  <em>{{member.enddate}}</em> <br>
+                {% endif %}
+
                 {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
                 <em>{{member.email}}</em> <br>
                 {% if member.website %}
