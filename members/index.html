@@ -83,7 +83,7 @@ group: members
                 <strong>{{member.name}}</strong> <br>
 
                 {% if member.startdate and member.enddate %}
-                  {{"{{member.stardate}} - {{member.enddate}}" | markdownify}}
+                  {{member.stardate}}" - "{{member.enddate}} | markdownify
                 {% endif %}
 
                 {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
