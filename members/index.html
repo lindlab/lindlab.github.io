@@ -46,9 +46,9 @@ group: members
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
                 {% endif %}
-                {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+                {% if member.bluesky %}
+                  <a href="http://bsky.app/"><img class="inline-block mem-icon" src="/static/img/logo/bluesky_logo.svg"></a>
+                  <a href= "http://bsky.app/profile/{{member.twitter}}"> @{{member.twitter}} </a> <br>
                 {% endif %}
                 {% if member.github %}
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
@@ -97,8 +97,8 @@ group: members
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
                 {% endif %}
                 {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+                  <a href="http://bsky.app"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+                  <a href= "http://bsky.app/profile/{{member.twitter}}"> @{{member.twitter}} </a> <br>
                 {% endif %}
                 {% if member.github %}
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
@@ -153,8 +153,8 @@ group: members
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
                 {% endif %}
                 {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+                  <a href="http://bsky.app"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+                  <a href= "http://bsky.app/{{member.twitter}}"> @{{member.twitter}} </a> <br>
                 {% endif %}
                 {% if member.github %}
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>

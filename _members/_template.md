@@ -11,7 +11,7 @@ DC is masters student
 DD is research staff that doesnt have phd
 EE is undergrad
 Optional fields:
-timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
+timeline_name, pronouns, scholar, website, UCSF, bluesky, linkedin, github
 ---
 #REQUIRED
 name: FirstName LastName #Include "Ph.D."" if applicable
@@ -39,7 +39,7 @@ description: "
 pronouns: #example: they/them/theirs, he/him/his, she/her/hers, etc
 website: #https://website.com/ #Enter your personal/professional website
 UCSF: #XXXXXXXX #UCSF Employees Profile ID only
-twitter: #username
+bluesky: #username
 linkedin: #username
 github: #username
 ---
