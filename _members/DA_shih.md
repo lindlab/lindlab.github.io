@@ -2,7 +2,7 @@
 #REQUIRED
 name: Johnathan Shih
 startdate: [2026-05-10] #Enter your start date
-enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
+enddate: []
 image: /static/img/members/Shih.png #365 x 365 pixels, 72 #dpi
 #altimage: /static/img/members/Shih.png #365 x 365 pixels, 72 dpi
 position: Graduate Student

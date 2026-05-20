@@ -1,7 +1,7 @@
 ---
 name: Lucie Degaetano #Include "Ph.D."" if applicable
 startdate: [2025-10-21] #Enter your start date
-enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
+enddate: []
 image: /static/img/members/Degaetano.png #365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Undergraduate researcher #What is your job title in the Fraser lab?
