@@ -1,17 +1,3 @@
-Required fields:
-Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
-consider:
-key:
-AA is PI
-BB is research staff
-CC is postdoc
-DA is grad student, joined
-DB is grad student, rotating
-DC is masters student
-DD is research staff that doesnt have phd
-EE is undergrad
-Optional fields:
-timeline_name, pronouns, scholar, website, UCSF, bluesky, linkedin, github
 ---
 #REQUIRED
 name: Johnathan Shih
